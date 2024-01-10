@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "eldar_study"
+  site-url: "https://hgzech.github.io/eldar_study"
+  description: "The analysis of the Eldar study."
+  repo-branch: main
+  repo-url: "https://github.com/hgzech/eldar_study"
